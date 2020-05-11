@@ -6,3 +6,10 @@ git add
 git commit -m " "
 git log
 Git diff <fileName>
+
+
+cndkfdskfjsdkjf
+dlfmdlfdlfm
+ldgdljgsdljg
+ldgdlsglsdjg
+fkdfjdksj
